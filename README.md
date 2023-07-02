@@ -1,3 +1,2 @@
 # git_test
-An initial practice repository for myself
-Hello Odin!
+An initial practice repository for myself. Hello Odin!
